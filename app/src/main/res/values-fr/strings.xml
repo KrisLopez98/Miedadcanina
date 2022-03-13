@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="how_old_are_you">Quel age as-tu?</string>
+    <string name="your_age">Ton age</string>
+    <string name="calculate">Calculer</string>
+    <string name="you_must_insert_your_age">Vous devez inserer votre age</string>
+    <string name="result_text">Votre age canin est de %d ans</string>
+</resources>
